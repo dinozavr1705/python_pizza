@@ -26,7 +26,7 @@ def remove_item_from_cart(item_name):
     with open(file_path, "w") as file:
         json.dump(pizzeria, file, indent=4)
 
-    print(f"Товар удален из корзины! Вычитано {total_price} фазкоинов.")
+    print(f"Товар удален из коdfsfjhrрзины! Вычитано {total_price} фазкоинов.")
 
     print("Товар удален из корзины!")
 while m!='нет':
