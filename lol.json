@@ -1,0 +1,32 @@
+[
+    {
+        "title": "One Piece",
+        "author": "Oda",
+        "publication_year": 1997,
+        "pages": "21 540"
+    },
+    {
+        "title": "Bleach",
+        "author": "Taito Cubo",
+        "publication_year": 2001,
+        "genre": "Supernatural fiction"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 1925,
+        "genre": "Classic"
+    },
+    {
+        "title": "JJBA",
+        "author": "Hirohito Araki",
+        "publication_year": 1986,
+        "genre": "Adventure"
+    },
+    {
+        "title": "My fire jokes",
+        "year": "1943",
+        "pages": "1945",
+        "author": "Adolf Hitler"
+    }
+]
